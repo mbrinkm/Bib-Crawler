@@ -11,7 +11,7 @@ Use examples:
 
 bibcrawler.py
 >> .. Relative path to .tex file: letterv22.tex
->> imported bib items to /Users/mbrinkm/Nextcloud/Documents/DraftsAndPapers/test/references.bib
+>> imported bib items to mypath/references.bib
 >> runtime: 18.847268104553223
 
 bibcrawler.py mypaper.tex
