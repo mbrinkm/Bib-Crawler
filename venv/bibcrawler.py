@@ -63,7 +63,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         relpath = sys.argv[1]
     else:
-        relpath = input('Relative path to .tex file:')
+        relpath = input('Relative path to .tex file: ')
 
     texpath = cwd + '/' + relpath
     refpath = cwd + '/references.bib'
