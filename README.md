@@ -9,7 +9,7 @@ Does some more formatting and saves to references.bib (after renaming any existi
 
 Use examples:
 
-bibcrawler.py
+bibcrawler.py 
  .. Relative path to .tex file: letterv22.tex
  imported bib items to mypath/references.bib
  runtime: 18.847268104553223
