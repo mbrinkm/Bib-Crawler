@@ -10,11 +10,11 @@ Does some more formatting and saves to references.bib (after renaming any existi
 Use examples:
 
 bibcrawler.py
->> .. Relative path to .tex file: letterv22.tex
->> imported bib items to mypath/references.bib
->> runtime: 18.847268104553223
+ .. Relative path to .tex file: letterv22.tex
+ imported bib items to mypath/references.bib
+ runtime: 18.847268104553223
 
 bibcrawler.py mypaper.tex
->> renamed old reference file: mypath/referencesOld.bib
->> imported bib items to mypath/references.bib
->> runtime: 14.374775886535645
+ renamed old reference file: mypath/referencesOld.bib
+ imported bib items to mypath/references.bib
+ runtime: 14.374775886535645
